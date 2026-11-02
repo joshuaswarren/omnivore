@@ -173,3 +173,7 @@ your database. These are dockerized and can be run with the
 ## License
 
 Omnivore and our extensions to Readability.js are under the AGPL-3.0 license.
+
+## Contributors
+
+Everyone credited so far: [CONTRIBUTORS.md](CONTRIBUTORS.md).
